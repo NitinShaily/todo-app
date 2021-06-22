@@ -13,4 +13,4 @@ Basic app to add your day to day item in a list.
 >JavaScript  
   
     
-![screen-gif](./todo.gif)
+![screen-gif](./extraMedia/todosGIF.mp4)

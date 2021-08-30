@@ -1,6 +1,6 @@
 # todo-app  
 ## Discription:  
-Basic app to add your day to day item in a list.
+Basic app to add your day-to-day item to a list.
 
 ## Functionalities:  
 > can add new items  
